@@ -26,3 +26,4 @@ elsif a == b && a == c && c == b
 else 
   puts "Другой вид треугольника"
 end 
+  

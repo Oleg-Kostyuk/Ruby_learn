@@ -15,3 +15,4 @@ height = height.to_i
 area_triangle = 0.5 * footing * height
 
 puts "Площадь треугольника равна #{area_triangle}"
+  
