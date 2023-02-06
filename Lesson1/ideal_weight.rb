@@ -25,4 +25,4 @@ if weight <= ideal_weight
 else weight > ideal_weight
   puts "#{name}, ваш вес не оптимальный. нужно поработать над собой"
 end
-  	
+  
