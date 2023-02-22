@@ -1,7 +1,7 @@
-alphabet = Range.new('a', 'z').to_a
+alphabet = Range.new('a'..'z').to_a
 vowel_letters = ['a', 'e', 'i', 'o', 'u', 'y']
 
-my_hash = Hash.new
+my_hash = {}
 
 counter = 0
 
